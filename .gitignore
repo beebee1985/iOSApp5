@@ -1,0 +1,62 @@
+# Xcode
+# See https://github.com/github/gitignore/blob/main/Swift.gitignore for reference
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcscmblueprint
+
+# Xcode specific - user settings
+*.xcuserstate
+
+# Workspace
+*.xcworkspace
+
+# Swift Package Manager
+/.build
+/.swiftpm
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+
+# Xcode Archives
+*.xcarchive
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Symbols, archives, and generated files
+*.dSYM
+*.bcsymbolmap
+*.ipa
+
+# Misc
+.idea/
+.vscode/
+*.hmap
+*.swp
+*.lock
+*.env
+
+# macOS
+Icon
+._*
