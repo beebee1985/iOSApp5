@@ -1,10 +1,3 @@
-//
-//  iOSApp5UITestsLaunchTests.swift
-//  iOSApp5UITests
-//
-//  Created by George Muteti on 10/11/2025.
-//
-
 import XCTest
 
 final class iOSApp5UITestsLaunchTests: XCTestCase {
